@@ -1,22 +1,21 @@
-# Backend Pull Request
+# 🧩 Backend Pull Request
 
-## Summary
-<!-- Describe the backend change, endpoints modified, DB changes -->
+Please describe what this PR does and why it's needed.
 
-## API Changes
-- Endpoint: `POST /api/xyz`
-- Request / Response schema changes
+- Related issue / Click Up ticket:
+- Type of change: (Bug fix / Feature / Refactor / Docs / etc.)
+- Impacted areas of the codebase:
 
-## Database / Migrations
-- [ ] Migration added (describe)
-- [ ] Backfill required (describe)
+---
 
-## Checklist
-- [ ] Unit tests added/updated
-- [ ] Integration tests added
-- [ ] Load/perf considerations reviewed
-- [ ] Secrets or env var changes documented
+## ✅ Backend Checklist
+- [ ] Code builds and passes tests locally.
+- [ ] API contracts or database schemas are updated if needed.
+- [ ] Logging and error handling follow project standards.
+- [ ] Security implications reviewed.
+- [ ] Documentation updated if required.
 
-## Testing steps
-1. Run `mvn test` / `pytest`
-2. Start service and run example request:
+---
+
+## 🧠 Notes for Reviewers
+Add any context or testing steps that will help reviewers.
