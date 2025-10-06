@@ -5,6 +5,7 @@
 ## Quick links (replace `<OWNER>` and `<REPO>` and branch if needed)
 
 - Frontend template — [Preview file](https://github.com/cod3rjava/test-pr-request-flow/blob/main/.github/PULL_REQUEST_TEMPLATE/frontend.md) · [Open PR with this template](https://github.com/cod3rjava/test-pr-request-flow/blob/main/.github/PULL_REQUEST_TEMPLATE/frontend.md)
+(https://github.com/cod3rjava/test-pr-request-flow/compare/main?template=backend.md)
 - Backend template  — [Preview file](https://github.com/<OWNER>/<REPO>/blob/main/.github/PULL_REQUEST_TEMPLATE/backend.md)  · [Open PR with this template](https://github.com/<OWNER>/<REPO>/compare/main...YOUR-BRANCH-NAME?template=backend.md)
 
 ## Type of change
