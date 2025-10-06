@@ -2,9 +2,9 @@
 
 Describe your UI-related or frontend-specific changes.
 
-- Related issue / JIRA ticket:
-- Component(s) or area(s) changed:
-- Screenshots / screencasts (if applicable):
+- Related issue / Click Up ticket:
+- Type of change: (Bug fix / Feature / Refactor / Docs / etc.)
+- Impacted areas of the codebase:
 
 ---
 
