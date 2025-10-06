@@ -29,5 +29,4 @@ Describe your UI-related or frontend-specific changes.
 ---
 
 ## 🧠 Notes for Reviewers
-- Why an effect is necessary here:
-  <!-- brief justification, e.g., "WebSocket subscribe/unsubscribe" -->
+Add any context or testing steps that will help reviewers.
