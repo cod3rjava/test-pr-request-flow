@@ -1,6 +1,19 @@
-## Choose Your PR Template
+# 🧩 Pull Request Template Selector
 
-Please go to the *Preview* tab and select the appropriate template:
+## ⚠️ Important
+To select a template, click on the **“Preview”** tab at the top of this editor.  
 
-* [Backend Template](?expand=1&template=backend.md)
-* [Frontend Template](?expand=1&template=frontend.md)
+## 🔍 Which area does your change belong to?
+
+### 🎨 Frontend
+If your changes involve React components, UI, CSS, or browser-side logic:  
+👉 **[Use Frontend Template](?expand=1&template=frontend.md)**
+
+---
+
+### ⚙️ Backend / Infrastructure
+If your changes involve APIs, services, database, or infra logic:  
+👉 **[Use Backend Template](?expand=1&template=backend.md)**
+
+---
+
